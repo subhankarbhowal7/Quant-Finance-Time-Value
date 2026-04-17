@@ -1,5 +1,6 @@
-# Quant-Finance-Time-Value
-Time Value of Money 
+# Quant-Finance
+
+1. Time Value of Money 
 Money today is worth more than the same amount in the future.
 
 Why?
